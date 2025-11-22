@@ -1,0 +1,33 @@
+{
+  "sklearn_version": "1.7.1",
+  "csv_path": "stunting_wasting_dataset.csv",
+  "target_col": "Stunting",
+  "dropped_id_cols": [],
+  "numeric_cols": [
+    "Umur (bulan)",
+    "Tinggi Badan (cm)",
+    "Berat Badan (kg)"
+  ],
+  "categorical_cols": [
+    "Jenis Kelamin",
+    "Wasting"
+  ],
+  "results": [
+    {
+      "model": "LogisticRegression",
+      "accuracy": 0.9136,
+      "precision_macro": 0.8595978451166161,
+      "recall_macro": 0.927391578977323,
+      "f1_macro": 0.8855441143385684,
+      "roc_auc": 0.9717873342245135
+    },
+    {
+      "model": "RandomForest",
+      "accuracy": 0.999,
+      "precision_macro": 0.9987863337414395,
+      "recall_macro": 0.9982970816143594,
+      "f1_macro": 0.9985414565665237,
+      "roc_auc": 0.9999928930870716
+    }
+  ]
+}

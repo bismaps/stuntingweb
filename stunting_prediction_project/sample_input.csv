@@ -1,0 +1,101 @@
+Jenis Kelamin,Umur (bulan),Tinggi Badan (cm),Berat Badan (kg),Stunting,Wasting
+Laki-laki,19,91.6,13.3,Tall,Risk of Overweight
+Laki-laki,20,77.7,8.5,Stunted,Underweight
+Laki-laki,10,79.0,10.3,Normal,Risk of Overweight
+Perempuan,2,50.3,8.3,Severely Stunted,Risk of Overweight
+Perempuan,5,56.4,10.9,Severely Stunted,Risk of Overweight
+Laki-laki,11,76.3,5.9,Normal,Severely Underweight
+Laki-laki,16,80.7,9.9,Normal,Normal weight
+Perempuan,15,72.6,6.5,Normal,Severely Underweight
+Perempuan,18,78.4,15.6,Normal,Risk of Overweight
+Laki-laki,2,63.4,7.0,Normal,Risk of Overweight
+Laki-laki,6,60.4,11.5,Severely Stunted,Risk of Overweight
+Perempuan,17,77.5,6.2,Normal,Severely Underweight
+Perempuan,19,76.6,12.9,Normal,Risk of Overweight
+Perempuan,7,59.8,11.4,Severely Stunted,Risk of Overweight
+Perempuan,17,82.8,9.0,Normal,Normal weight
+Perempuan,21,84.7,8.4,Normal,Underweight
+Laki-laki,17,86.2,14.7,Normal,Risk of Overweight
+Perempuan,3,61.2,9.0,Normal,Risk of Overweight
+Perempuan,13,69.8,5.8,Stunted,Severely Underweight
+Perempuan,20,80.5,9.2,Normal,Normal weight
+Laki-laki,23,84.1,10.0,Normal,Normal weight
+Perempuan,12,67.8,12.4,Stunted,Risk of Overweight
+Laki-laki,24,97.4,14.6,Tall,Risk of Overweight
+Perempuan,7,59.4,10.7,Severely Stunted,Risk of Overweight
+Laki-laki,7,72.6,10.7,Normal,Risk of Overweight
+Laki-laki,9,69.8,6.3,Normal,Severely Underweight
+Laki-laki,8,72.5,7.7,Normal,Normal weight
+Perempuan,22,80.7,10.1,Normal,Normal weight
+Laki-laki,11,76.7,12.8,Normal,Risk of Overweight
+Laki-laki,2,53.1,7.2,Stunted,Risk of Overweight
+Laki-laki,4,64.7,9.1,Normal,Risk of Overweight
+Laki-laki,8,73.8,6.0,Normal,Severely Underweight
+Perempuan,12,68.8,13.2,Stunted,Risk of Overweight
+Laki-laki,19,84.4,13.0,Normal,Risk of Overweight
+Laki-laki,22,88.1,12.2,Normal,Normal weight
+Laki-laki,3,67.8,7.4,Tall,Risk of Overweight
+Laki-laki,21,92.5,12.7,Normal,Risk of Overweight
+Perempuan,24,77.6,11.7,Stunted,Normal weight
+Perempuan,11,71.3,12.8,Normal,Risk of Overweight
+Perempuan,22,92.8,10.0,Normal,Normal weight
+Laki-laki,0,46.3,3.2,Normal,Normal weight
+Perempuan,12,80.3,5.4,Normal,Severely Underweight
+Perempuan,8,68.5,10.1,Normal,Risk of Overweight
+Perempuan,11,68.4,6.6,Normal,Underweight
+Perempuan,23,89.8,10.6,Normal,Normal weight
+Laki-laki,19,78.6,13.0,Normal,Risk of Overweight
+Laki-laki,16,74.1,15.0,Stunted,Risk of Overweight
+Laki-laki,16,88.6,10.0,Tall,Normal weight
+Laki-laki,4,61.6,8.2,Normal,Risk of Overweight
+Perempuan,1,54.1,4.2,Normal,Normal weight
+Perempuan,22,88.2,14.4,Normal,Risk of Overweight
+Laki-laki,16,84.2,9.6,Normal,Normal weight
+Perempuan,1,55.5,4.6,Normal,Normal weight
+Perempuan,15,83.7,8.7,Normal,Normal weight
+Perempuan,15,69.1,11.2,Severely Stunted,Risk of Overweight
+Laki-laki,3,54.5,6.8,Severely Stunted,Normal weight
+Laki-laki,19,85.9,8.5,Normal,Underweight
+Laki-laki,7,67.5,11.9,Normal,Risk of Overweight
+Laki-laki,10,70.8,6.5,Normal,Severely Underweight
+Laki-laki,9,68.2,10.5,Normal,Risk of Overweight
+Perempuan,15,78.5,10.6,Normal,Normal weight
+Perempuan,0,43.8,5.3,Stunted,Risk of Overweight
+Laki-laki,22,82.9,10.5,Normal,Normal weight
+Perempuan,15,84.8,13.9,Normal,Risk of Overweight
+Perempuan,0,51.0,1.4,Normal,Severely Underweight
+Perempuan,3,65.6,6.9,Normal,Risk of Overweight
+Laki-laki,15,72.3,12.0,Stunted,Risk of Overweight
+Laki-laki,17,75.2,11.4,Stunted,Normal weight
+Perempuan,2,59.3,3.8,Normal,Underweight
+Laki-laki,3,57.7,5.5,Normal,Normal weight
+Perempuan,23,88.6,15.5,Normal,Risk of Overweight
+Laki-laki,0,50.5,3.6,Normal,Normal weight
+Perempuan,22,79.4,12.7,Stunted,Risk of Overweight
+Perempuan,12,73.8,13.3,Normal,Risk of Overweight
+Laki-laki,1,52.7,5.6,Normal,Risk of Overweight
+Laki-laki,0,45.8,4.6,Stunted,Risk of Overweight
+Laki-laki,3,54.6,7.7,Severely Stunted,Risk of Overweight
+Laki-laki,11,81.6,13.3,Tall,Risk of Overweight
+Laki-laki,5,64.0,4.4,Normal,Severely Underweight
+Perempuan,16,79.6,11.2,Normal,Risk of Overweight
+Perempuan,0,43.6,2.5,Stunted,Normal weight
+Perempuan,22,79.8,11.7,Stunted,Normal weight
+Perempuan,24,83.8,15.6,Normal,Risk of Overweight
+Laki-laki,7,62.8,6.5,Stunted,Underweight
+Laki-laki,21,82.4,9.4,Normal,Normal weight
+Perempuan,1,51.2,6.4,Normal,Risk of Overweight
+Laki-laki,10,76.5,9.9,Normal,Normal weight
+Perempuan,22,82.9,9.4,Normal,Normal weight
+Perempuan,12,66.7,5.3,Stunted,Severely Underweight
+Perempuan,12,68.7,5.9,Stunted,Severely Underweight
+Perempuan,15,69.2,13.9,Severely Stunted,Risk of Overweight
+Laki-laki,1,49.2,5.2,Stunted,Risk of Overweight
+Perempuan,18,80.0,11.4,Normal,Normal weight
+Laki-laki,21,86.9,7.5,Normal,Severely Underweight
+Perempuan,9,75.5,7.7,Normal,Normal weight
+Perempuan,4,62.4,8.7,Normal,Risk of Overweight
+Perempuan,11,74.9,5.8,Normal,Severely Underweight
+Laki-laki,19,81.6,13.0,Normal,Risk of Overweight
+Perempuan,19,74.4,15.7,Stunted,Risk of Overweight
+Perempuan,18,86.4,8.8,Normal,Normal weight
