@@ -8,8 +8,8 @@ app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
 # Configuration
-MODEL_DIR = 'artifacts_sklearn171'
-MODEL_FILE = 'model.joblib'
+MODEL_DIR = 'stunting_prediction_project/artifacts_sklearn171'
+MODEL_FILE = 'best_model_RandomForest.joblib'
 MODEL_PATH = os.path.join(MODEL_DIR, MODEL_FILE)
 
 # Global variable to hold the model
@@ -78,8 +78,7 @@ def predict():
 
         # Prepare data for model (matching the training columns)
         # Columns: 'Umur (bulan)', 'Tinggi Badan (cm)', 'Berat Badan (kg)', 'Jenis Kelamin', 'Wasting'
-        # Note: 'Wasting' seems to be required by the model. We'll initialize it to 0 (Normal) as a placeholder
-        # since we don't have a separate Wasting model yet.
+        # Note: 'Wasting' seems to be required by the model. We'll initialize it to "Normal weight" as a placeholder
         input_data = pd.DataFrame([{
             'Umur (bulan)': usia,
             'Tinggi Badan (cm)': tinggi,
