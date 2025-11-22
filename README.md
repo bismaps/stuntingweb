@@ -5,6 +5,8 @@ Aplikasi web untuk memprediksi status stunting pada anak menggunakan arsitektur 
 - **Backend**: Python Flask + Scikit-Learn (RandomForest)
 - **Akurasi Model**: **~94.91%** (Evaluasi pada 20.000 data test)
 
+![Demo Aplikasi](demo.webp)
+
 ## Persyaratan Sistem
 - Python 3.8+
 - PHP 7.4+
